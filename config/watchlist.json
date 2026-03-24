@@ -1,29 +1,10 @@
 {
-    "processes": [
-        "notepad.exe",
-        "devenv.exe",
-        "code.exe",
-        "sublime_text.exe",
-        "idea64.exe",
-        "eclipse.exe",
-        "pycharm64.exe",
-        "clion64.exe",
-        "webstorm64.exe",
-        "goland64.exe",
-        "rider64.exe",
-        "vs_code.exe",
-        "atom.exe",
-        "notepad++.exe",
-        "vim.exe",
-        "emacs.exe",
-        "nano.exe",
-        "gedit.exe",
-        "kate.exe",
-        "leafpad.exe",
-        "mousepad.exe",
-        "xedit.exe",
-        "gvim.exe",
-        "sublime_merge.exe"
-    ],
+  "processes": [
+    "notepad.exe",
+    "devenv.exe",
+    "code.exe",
+    "copilot-language-server.exe",
+    "vs_code.exe"
+  ],
     "gracePeriodMs": 5000
 }
